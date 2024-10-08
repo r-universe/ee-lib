@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ee-lib/ee-lib.r-universe.dev
 	branch = HEAD
+[submodule "HIDDA.forecasting"]
+	path = HIDDA.forecasting
+	url = https://github.com/HIDDA/forecasting
+[submodule "hhh4ZI"]
+	path = hhh4ZI
+	url = https://github.com/Junyi-L/hhh4ZI
+[submodule "hhh4contacts"]
+	path = hhh4contacts
+	url = https://codeberg.org/EE-hub/hhh4contacts
+[submodule "surveillance"]
+	path = surveillance
+	url = https://r-forge.r-project.org/projects/surveillance
+[submodule "twins"]
+	path = twins
+	url = https://codeberg.org/EE-hub/twins
