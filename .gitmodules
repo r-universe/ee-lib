@@ -8,12 +8,16 @@
 [submodule "hhh4ZI"]
 	path = hhh4ZI
 	url = https://github.com/Junyi-L/hhh4ZI
+[submodule "hhh4addon"]
+	path = hhh4addon
+	url = https://github.com/jbracher/hhh4addon
 [submodule "hhh4contacts"]
 	path = hhh4contacts
 	url = https://codeberg.org/EE-hub/hhh4contacts
 [submodule "surveillance"]
 	path = surveillance
-	url = https://r-forge.r-project.org/projects/surveillance
+	url = https://github.com/r-forge/surveillance
+	subdir = pkg
 [submodule "twins"]
 	path = twins
 	url = https://codeberg.org/EE-hub/twins
