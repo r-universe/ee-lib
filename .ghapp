@@ -1,0 +1,10 @@
+{
+  "id": 55733979,
+  "created_at": "2024-10-08T11:44:05.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ee-lib.r-universe.dev"]
+}
