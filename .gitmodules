@@ -7,7 +7,7 @@
 	url = https://github.com/HIDDA/forecasting
 [submodule "hhh4ZI"]
 	path = hhh4ZI
-	url = https://github.com/Junyi-L/hhh4ZI
+	url = https://codeberg.org/EE-hub/hhh4ZI
 [submodule "hhh4addon"]
 	path = hhh4addon
 	url = https://github.com/jbracher/hhh4addon
